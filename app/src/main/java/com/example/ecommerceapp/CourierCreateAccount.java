@@ -31,7 +31,7 @@ public class CourierCreateAccount extends AppCompatActivity {
     private Button CreateRegisterButton;
     private EditText InputName, InputNIC, InputPhoneNumber, InputEmail, InputColomboSuburb, InputPassword, InputConfirmPassword;
     private ProgressBar LoadingBar;
-
+    String test;
 
 
     @Override
